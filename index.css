@@ -1,0 +1,14 @@
+#rajeev{
+    background-color: aqua;
+    color: blueviolet;
+}
+/* h1{
+    background-color: chartreuse;
+} */
+
+#child {
+  color: rgb(241, 107, 129);
+}
+#parent{
+  color: rgb(14, 237, 25);
+}
